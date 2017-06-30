@@ -3,3 +3,4 @@ test
  test lan 3 
  123 
 123
+ test reset commit
